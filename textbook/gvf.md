@@ -1569,7 +1569,7 @@ $$
 
 ## 学习与研究衔接
 
-标量奖励价值是 GVF 的一种特例。定义多个问题不等于已经学出有用状态或控制策略。
+GVF 用目标策略、累积量与延续系数指定一个可以由经验检验的问题。同一历史可以回答许多这样的提问，有限预算却只允许维护一部分。表示更新时，应先确认问题规格是否保持不变；技能策略变了，所预测的未来也可能变了。进一步的困难是依据已经观察到的用途选择问题，而不是依赖设计者预知以后会需要什么。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-gvf) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=gvf) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=gvf)
 

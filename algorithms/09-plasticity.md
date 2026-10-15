@@ -691,7 +691,7 @@ $$
 
 ## 学习与研究衔接
 
-不遗忘不意味着还能学习。应在相同新数据预算下测试老网络、新网络与局部重置。
+旧问题仍答得好，不能说明网络还学得会新问题。可以先给训练年龄不同的网络相同新数据和目标，比较它们的学习速度，再回到在线交互检查探索影响。替换特征或调整有效步长若有帮助，还要测量旧功能的损失，以及技能和模型重新适配的成本；这些结果共同决定干预是否值得长期使用。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-plasticity) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=plasticity) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=plasticity)
 

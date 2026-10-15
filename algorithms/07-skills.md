@@ -1263,7 +1263,7 @@ $$
 
 ## 学习与研究衔接
 
-单步动作推广为可变持续时间的策略。发现、学习、选择和终止 option 是不同子问题。
+Option 使经过多个原始动作才完成的行为成为高层选择对象。要评价它，需要知道从哪里启动、内部怎样行动、何时停止，以及停止后继续做什么。学习修改其中任何一项，都可能改变奖励、时长或终点分布；仅冻结策略参数也不够，因为输入状态仍可能改变。旧模型是否可用，应由相关后果是否保持来判断。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-options) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=options) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=options)
 

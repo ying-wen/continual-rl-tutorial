@@ -1483,7 +1483,7 @@ python3 examples/credit_assignment_lab.py test
 
 ## 学习与研究衔接
 
-先分开前向目标、后向计算与离策略校正，再比较 Expected Traces 和梯度迹的估计对象。RTRL 传播递归敏感度；元学习传播更新规则的敏感度。
+记忆保存了提示，并不意味着晚到的反馈能够更新当时的写入方式。资格迹记录过去预测或动作的更新方向，递归敏感度记录参数对当前活动的影响，元梯度再追踪过去学习怎样影响后续表现。比较这些机制时应明确求导对象，并用截断信用但保留活动的对照，区分信息没有留下与信息留下却学不会使用。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-credit) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=credit) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=credit)
 

@@ -800,7 +800,7 @@ $$
 
 ## 学习与研究衔接
 
-经验获取决定之后能学习什么。预测误差大可能只是噪声，未必代表学习进展或控制价值。
+若两种预测在已访问区域完全相同，继续收集同类经验无法分辨它们。探索应尝试能产生不同后果的行为，同时考虑该信息对后续选择的用途。噪声区域也能持续制造大误差，却未必提供可学规律；恢复经验可能很少出现，却关系到能否继续交互。经验选择因此需要同时研究可学性、用途和取得经验的代价。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-exploration) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=exploration) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=exploration)
 

@@ -995,7 +995,7 @@ $$
 
 ## 学习与研究衔接
 
-训练时想象与决策时搜索不是同一算法接口。比较时要同时限定模型调用和环境交互。
+规划通过模型比较行为，所以误差是否跨过候选间的价值差距，比误差是否非零更直接地影响当前选择。还要区分模型错误与搜索不足：在真模型下追加计算是否有用，换回学到的模型后是否仍有用？状态和技能持续学习时，规划计算还要与模型修正共享预算，最终比较它们对实际交互收益的贡献。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-planning) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=planning) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=planning)
 

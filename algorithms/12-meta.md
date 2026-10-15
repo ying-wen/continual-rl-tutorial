@@ -1328,7 +1328,7 @@ $$
 
 ## 学习与研究衔接
 
-IDBD 适应步长，MAML 学初始化，context-based meta-RL 推断任务；内外层目标与数据权限不同。
+不同特征可能需要不同更新速度：稳定信号应保留，正在漂移的信号需要追踪，噪声又不宜追得过快。元学习用后续表现调整这些学习参数，但短时间窗可能无法评价较早更新的长期作用。状态与技能同时改变时，还应分别在共同数据和真实交互中比较，判断学到的规则是否改善更新，以及这种改善怎样改变采样。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-meta) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=meta) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=meta)
 

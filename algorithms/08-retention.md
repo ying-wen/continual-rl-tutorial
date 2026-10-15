@@ -643,7 +643,7 @@ $$
 
 ## 学习与研究衔接
 
-记住旧任务和快速学习新任务可能冲突。冻结诊断与保持更新的再适应实验分别回答不同问题。
+回访旧情境时，先前行为可能立即恢复，也可能需要重新学习。冻结更新、恢复旧线索或适配读出的诊断有助于区分知识丢失与调用条件改变；恢复训练后的速度则测量重新学习。有限存储还要求进一步选择保留什么：访问频率之外，失败代价、重学成本以及旧规律是否仍有效，都可能改变保留价值。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-retention) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=retention) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=retention)
 

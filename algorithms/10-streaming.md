@@ -927,7 +927,7 @@ IntentionalStep 实现梯度缩放、资格迹、误差裁剪和 actor 误差归
 
 ## 学习与研究衔接
 
-在线交互不等于严格 streaming。必须分别说明回放、批量、每步计算与持久存储。
+严格流式学习限制经验到达后怎样再次使用。活动、资格迹和优化器统计可以留存，但都占用资源；保存完整序列以重算新状态则需要另一种数据权限。模型因技能学习而失准时，有限统计量未必足以修复，可能必须重新执行技能。因而流式方法既要控制每次更新，也要检验失去回放后重新获得信息的成本。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-streaming) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=streaming) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=streaming)
 

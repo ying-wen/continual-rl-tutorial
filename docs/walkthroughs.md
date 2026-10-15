@@ -191,14 +191,15 @@
 - [7. 沿运行记录走完同一次学习循环](../textbook/architectures.md#lesson-cycle-code) · [agent_cycle_walkthrough.py](../tutorials/agent_cycle_walkthrough.py)
 - [状态与技能也从经验中形成时](../textbook/architectures.md#lesson-learning-components) · [learned-memory-walkthrough.py](../tutorials/learned-memory-walkthrough.py)
 - [状态与技能也从经验中形成时](../textbook/architectures.md#lesson-learning-components) · [learned_subgoal_cycle.py](../tutorials/learned_subgoal_cycle.py)
+- [状态与技能也从经验中形成时](../textbook/architectures.md#lesson-learning-components) · [knowledge_transport.py](../tutorials/knowledge_transport.py)
 - [真实交互与规划的更新调度](../textbook/architectures.md#lesson-schedule) · [architecture-walkthrough.py](../tutorials/architecture-walkthrough.py)
 
 ## 心理与神经科学等视角：学习、心智与意识
 
-### 有限理性与信息成本：学习、思考和行动如何共同取舍
+### 有限理性：思考的价值与代价
 
-- [3 · 描述偏好，不等于规定智能体应有的目标](../textbook/supplements/economics.md#reference-dependence) · [economic-choice-walkthrough.py](../tutorials/economic-choice-walkthrough.py)
+- [3 · 怎样比较两张彩票？](../textbook/supplements/economics.md#reference-dependence) · [economic-choice-walkthrough.py](../tutorials/economic-choice-walkthrough.py)
 
-### 模型怎样解释学习：从实验到科学理论
+### 模型与解释：怎样理解学习
 
 - [4.3 恢复参数之后，还要比较更新规则](../textbook/supplements/explanation.md#explanation-identifiability-recovery) · [explanation-identifiability-walkthrough.py](../tutorials/explanation-identifiability-walkthrough.py)

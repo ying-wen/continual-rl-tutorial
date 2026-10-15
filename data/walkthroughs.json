@@ -679,6 +679,12 @@
               "sectionTitle": "状态与技能也从经验中形成时"
             },
             {
+              "file": "knowledge_transport.py",
+              "path": "/crl-code/tutorials/knowledge_transport.py",
+              "section": "lesson-learning-components",
+              "sectionTitle": "状态与技能也从经验中形成时"
+            },
+            {
               "file": "architecture-walkthrough.py",
               "path": "/crl-code/tutorials/architecture-walkthrough.py",
               "section": "lesson-schedule",
@@ -694,20 +700,20 @@
       "chapters": [
         {
           "id": "supplement-economics",
-          "title": "有限理性与信息成本：学习、思考和行动如何共同取舍",
+          "title": "有限理性：思考的价值与代价",
           "path": "supplements/economics/",
           "scripts": [
             {
               "file": "economic-choice-walkthrough.py",
               "path": "/crl-code/tutorials/economic-choice-walkthrough.py",
               "section": "reference-dependence",
-              "sectionTitle": "3 · 描述偏好，不等于规定智能体应有的目标"
+              "sectionTitle": "3 · 怎样比较两张彩票？"
             }
           ]
         },
         {
           "id": "supplement-explanation",
-          "title": "模型怎样解释学习：从实验到科学理论",
+          "title": "模型与解释：怎样理解学习",
           "path": "supplements/explanation/",
           "scripts": [
             {

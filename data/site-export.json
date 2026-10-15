@@ -105,13 +105,13 @@
     {
       "file": "algorithm-tutorials.json",
       "target": "data/algorithm-tutorials.json",
-      "sha256": "8e08d9384fdc10d6dc4ea06dd35c48d380c8d95ec326b12f56ed7698cf3917c5",
+      "sha256": "c2cd9d8217351ef019e773597eeab9903be393453be7b66fbfe0ace720d858b5",
       "page": null
     },
     {
       "file": "algorithm-tutorials.md",
       "target": "docs/algorithm-tutorials.md",
-      "sha256": "915c320fd16398c57c77449b62d5ac5adad45c20616e7d80b99a9bf3047df5cf",
+      "sha256": "dad6c7df1efa5b9890d30ef8e6e554274f63933b5d3e9c0bc95a95f29be42854",
       "page": null
     },
     {
@@ -153,25 +153,25 @@
     {
       "file": "chapter-architectures.md",
       "target": "textbook/architectures.md",
-      "sha256": "50bbe16452b4573507e1df2fc6f1802e224688ffed3a450943c0c4878d30644c",
+      "sha256": "6a30b136cb02f08164d22a4bce8d0d4903c7cc19bd4dd747fab3df2b3f8bb562",
       "page": "construction/architectures/"
     },
     {
       "file": "chapter-average.md",
       "target": "textbook/average.md",
-      "sha256": "2d98b55ccf7a23e8f31b5b408a38bec96e7412c95f62684079a0bf058a1d2ac1",
+      "sha256": "3493561d7f787c80e2599b8da5fe500042b3f51043bf37a369c4c0dbc8f531db",
       "page": "algorithms/average-reward/"
     },
     {
       "file": "chapter-companions.json",
       "target": "data/chapter-companions.json",
-      "sha256": "a9eab382162d464b59fdc5b5659444dc183f82a8b3cdb1094f075924d0555257",
+      "sha256": "487e38cd660b9a2032485d6c1b378e79399b9afab8b664b810e2dc576f74636c",
       "page": null
     },
     {
       "file": "chapter-companions.md",
       "target": "docs/chapter-companions.md",
-      "sha256": "6dcf2850f7992897dfbdd3d416751553c8f39aab5d7996b0a94cecdb476554c0",
+      "sha256": "38675c3e4b87e88f1fad3e1cada36e133e1aaae0484a9f2254c9dfe457a7b5de",
       "page": null
     },
     {
@@ -183,7 +183,7 @@
     {
       "file": "chapter-credit.md",
       "target": "textbook/credit.md",
-      "sha256": "9d8f4fc31ac9b19985439c81e022ee0d66ae106db5ee074dcb2bd35be7fd4a0a",
+      "sha256": "e3dafb85e739dd51cb96b3ea691aa5d419e5edafaf11a8421424c9027d1afb5f",
       "page": "algorithms/credit-assignment/"
     },
     {
@@ -207,31 +207,31 @@
     {
       "file": "chapter-exploration.md",
       "target": "textbook/exploration.md",
-      "sha256": "240f630b78c1402eb9583fc566eba5bfaf4542f288e2c4ef503d8921d43ac7ea",
+      "sha256": "908db299aaa15b10b88e408546de8d5ba3591e67d77a1739dfc3099a496bda9b",
       "page": "algorithms/exploration/"
     },
     {
       "file": "chapter-goals.md",
       "target": "textbook/goals.md",
-      "sha256": "9101cc1f4ff718d167aa1b4cc03fd03a12f68c48f510ed1b9ee36218ad266eb9",
+      "sha256": "d8ba0d8082b26129720e1a1dfe2015368d2ab54ead0b66a83ee63686b7879f90",
       "page": "construction/goals/"
     },
     {
       "file": "chapter-gvf.md",
       "target": "textbook/gvf.md",
-      "sha256": "e2a16c07ae503151c46d308cbd9c3375aae3246682fe5dcb724f60ee31b0751c",
+      "sha256": "81297dbc4892fd2f2a4607a583aa9c6c0c76c5068b140bea5b31d66b3c3154b8",
       "page": "construction/predictive-knowledge/"
     },
     {
       "file": "chapter-meta.md",
       "target": "textbook/meta.md",
-      "sha256": "b49d176273e4af24387a152bdef19342a4582dc1820427752128f146be1fb861",
+      "sha256": "52451bbca22a0d7b8c14f30d46c02c5442d13e2e3a09d710b9b3a8a4c7b11c2b",
       "page": "algorithms/meta/"
     },
     {
       "file": "chapter-models.md",
       "target": "textbook/models.md",
-      "sha256": "bfba630f77c44d255c7bbdd0a81c5e693f211e846687d19899a2a907e017e57d",
+      "sha256": "7e9b978810b501004757afc6e70cc29fcd3415926f5e14d4aaf39068b64b77f0",
       "page": "construction/models/"
     },
     {
@@ -243,19 +243,19 @@
     {
       "file": "chapter-options.md",
       "target": "textbook/options.md",
-      "sha256": "9a0595e810360e9e581bc085de928b9fcef15ef8361c2d67fe59f9aae4b33ce2",
+      "sha256": "59d4df7c3f01ee955332a0e3acf80c2452316a1a50f01c3c28dbc61981a1db6c",
       "page": "construction/options/"
     },
     {
       "file": "chapter-planning.md",
       "target": "textbook/planning.md",
-      "sha256": "657742842a39da4e846c9ae498de213b2e7502fc7977ad04c7561c1cab9825dc",
+      "sha256": "286ac4eb8de25d6c0d9e0ddaf290f1169aa0ebbc96d3de0f9aefc3faf835af0a",
       "page": "construction/planning/"
     },
     {
       "file": "chapter-plasticity.md",
       "target": "textbook/plasticity.md",
-      "sha256": "aefccbe0a46d2c217d04f4dc659572c4d427c4bb09f2e7df1bae30e492ddcf77",
+      "sha256": "60ec1bd6b718802bc933594114bc8e173831d48c2df0c29d4bd1e89c1947de9b",
       "page": "algorithms/plasticity/"
     },
     {
@@ -267,13 +267,13 @@
     {
       "file": "chapter-relations.json",
       "target": "data/chapter-relations.json",
-      "sha256": "41f2a04eb66ce85452e98cbf8e5a1599585319e458f5edb7a346ee2ad365e277",
+      "sha256": "172b6328f27bb05424096ee428c3aef3e95e5891dd640dba838ec9461dd87c39",
       "page": null
     },
     {
       "file": "chapter-retention.md",
       "target": "textbook/retention.md",
-      "sha256": "b1a0d116e68b0324bfa632c0634feea75f3dea575b4cb8d6f9ba85fb16574c13",
+      "sha256": "ab309dba1deadba459dc8cdc283aaafd5d9c1c14b5c42cb238a63a85e502ba64",
       "page": "algorithms/retention/"
     },
     {
@@ -297,13 +297,13 @@
     {
       "file": "chapter-state.md",
       "target": "textbook/state.md",
-      "sha256": "8a0179c90760f2c181c6cb76c42119faf2c75552e4170e447d840e90cb238053",
+      "sha256": "d44ab5e2cebb09491ea94a98873c9c4aa53974412159a2abf7be0d814d78dc70",
       "page": "construction/state/"
     },
     {
       "file": "chapter-streaming.md",
       "target": "textbook/streaming.md",
-      "sha256": "4a01ee7638590fa09d6217ad1aaa2050cc416a1b7ecc2179d6778817669cb880",
+      "sha256": "5330122a628470019508c950f3b0a67dca491c8b6a16334986c20c55fa951226",
       "page": "algorithms/streaming/"
     },
     {
@@ -1714,6 +1714,30 @@
       "file": "figure--goal-model-planning-walkthrough-repair.svg",
       "target": "assets/crl-figures/goal-model-planning-walkthrough-repair.svg",
       "sha256": "07a752b7f39d3e5eeb4c25c8b81c5fc08b3ad8cc78a7ddd80426d1de37cf4dbd",
+      "page": null
+    },
+    {
+      "file": "figure--knowledge-transport-comparison.mobile.svg",
+      "target": "assets/crl-figures/knowledge-transport-comparison.mobile.svg",
+      "sha256": "deb83b6675057724096fe7c356344e9125a41ee7e6fafe88eaad583fae5b1b6c",
+      "page": null
+    },
+    {
+      "file": "figure--knowledge-transport-comparison.svg",
+      "target": "assets/crl-figures/knowledge-transport-comparison.svg",
+      "sha256": "9a4034dd18ed5b71b200a3371e249567cd2377928736483789525163720cc5c0",
+      "page": null
+    },
+    {
+      "file": "figure--knowledge-transport-task.mobile.svg",
+      "target": "assets/crl-figures/knowledge-transport-task.mobile.svg",
+      "sha256": "3e4b6b1d34bb15839636384c7935a15bc81c7df34b92facba7a831159b044542",
+      "page": null
+    },
+    {
+      "file": "figure--knowledge-transport-task.svg",
+      "target": "assets/crl-figures/knowledge-transport-task.svg",
+      "sha256": "83c71255f2f579b6be88347c08f041460e0630fd199efe2b32cbd39786828178",
       "page": null
     },
     {
@@ -3183,14 +3207,20 @@
     {
       "file": "research-atlas.json",
       "target": "data/research-atlas.json",
-      "sha256": "0db779f783d77abb2e7a062ecdfec6edc9124e61f13b4affeb16f3fe4d02f3a3",
+      "sha256": "87a22e7272e1071815b8683c67d9d1ebce7a2badf2e53f995150d1cb02e00813",
       "page": null
     },
     {
       "file": "research-atlas.md",
       "target": "docs/research-atlas.md",
-      "sha256": "411a96c8e7c19c6703ff5c150b4d46e50a63d22070b68f630dd44884ae18317a",
+      "sha256": "f48c7092b2b2b6ef448b5143bb1a405bdc7f232274ea3c3279cf007bf817294c",
       "page": null
+    },
+    {
+      "file": "research-joint-learning.md",
+      "target": "docs/research-joint-learning.md",
+      "sha256": "deb32b9799dd701518a94f37dad5853e8901ae08f27d836a56640af279b14208",
+      "page": "research/joint-learning/"
     },
     {
       "file": "research-problems.md",
@@ -3435,91 +3465,91 @@
     {
       "file": "supplement-agency.md",
       "target": "textbook/supplements/agency.md",
-      "sha256": "5df94c077bbfe88fb6329a342112266e1456310f7602ec1373368cbf3879ffa6",
+      "sha256": "0a988b2ab197840ff7869f7356d27a3ef861ebbeebf772b9d24791b571a66964",
       "page": "supplements/agency/"
     },
     {
       "file": "supplement-consciousness.md",
       "target": "textbook/supplements/consciousness.md",
-      "sha256": "4c80967ecf66b4dcd992a6413e55d0e01b4f4e39e588c93c9c4193d30b49d5e5",
+      "sha256": "56fe729c19724a286c0fe490d152884c7f72313d1b5cdc8ddb20c513e35bd9e6",
       "page": "supplements/consciousness/"
     },
     {
       "file": "supplement-context.md",
       "target": "textbook/supplements/context.md",
-      "sha256": "69ef72fa071b5e5375ec7f8a340792cde10de1b1e3f35eea1c8ba0bd2c923099",
+      "sha256": "fda276264f9008d2743e03b05a1fd9b28046897b1f91b1ab70caabb27125c239",
       "page": "supplements/context/"
     },
     {
       "file": "supplement-control.md",
       "target": "textbook/supplements/control.md",
-      "sha256": "59b004c18c835b205d274b3545b803df845fff663faecf7ad5cf4e695c1339cc",
+      "sha256": "88f9a3736d0fdf0026307019c89b5bc82e6f3139594cf90982b174475b2079d8",
       "page": "supplements/control/"
     },
     {
       "file": "supplement-economics.md",
       "target": "textbook/supplements/economics.md",
-      "sha256": "70144bf7d7e51c9c0f4af754a00a436a7fc48852981bf03685e7e7e346e9955b",
+      "sha256": "6c988b50b92bd105ecfba17cef8c4c466d4b478c0a8c01c1964a412ca0425d96",
       "page": "supplements/economics/"
     },
     {
       "file": "supplement-explanation.md",
       "target": "textbook/supplements/explanation.md",
-      "sha256": "0c0a84e29bdc1c96245e33f13d55f1cd68088b162a3066e2ea38367ef4a8c44f",
+      "sha256": "418fb4264ea59963d8b7b68f906dd6773e15e8c12bfa7e9b7b9fc0ad8a0e4c57",
       "page": "supplements/explanation/"
     },
     {
       "file": "supplement-memory.md",
       "target": "textbook/supplements/memory.md",
-      "sha256": "cf2c0a07923a2bc57c8ccee3b345fbeb23fece2e1f78366669abb0191b6f7036",
+      "sha256": "4216d079952b1813f10d5bf0013bfeee60dad4e3aa933b572dba09551f3db40d",
       "page": "supplements/memory/"
     },
     {
       "file": "supplement-mind-philosophy.md",
       "target": "textbook/supplements/mind-philosophy.md",
-      "sha256": "d6058dce4d1259ce6321c9a16d6e2b407216da758706c3cb157bfdafd3fb20f3",
+      "sha256": "9f52763b264cb3774f09fb24c202f994c43c9a111825cb74aef0692e24ed9d9c",
       "page": "supplements/mind-philosophy/"
     },
     {
       "file": "supplement-motivation.md",
       "target": "textbook/supplements/motivation.md",
-      "sha256": "3a4c2d763d48a8252525bb9caa7b4551d0a42bfea5bf9a4cc5dc08f806c523e1",
+      "sha256": "bcb5fd7b7c85a1aef18d4e2eb9192a5438476a5a6ea440cc05b9ab46cfa57cb5",
       "page": "supplements/motivation/"
     },
     {
       "file": "supplement-organization.md",
       "target": "textbook/supplements/organization.md",
-      "sha256": "9fff866bd3f0aaf774fb23a5f6b93a6dfdd8265922995c2dab6bb95b457c36e9",
+      "sha256": "bf452e54811506362ea081ad1b64711f624bd0463372306ecae80759a0afd83a",
       "page": "supplements/organization/"
     },
     {
       "file": "supplement-prediction.md",
       "target": "textbook/supplements/prediction.md",
-      "sha256": "e3391e4ac8ccdf7e1e6b477cc47c0e168828ecc61a337b564e2f981b14a95984",
+      "sha256": "d37c2f3e8f32b462a687e7f19e16abf5f8029fb018a27cfd32cd91190d348c5e",
       "page": "supplements/prediction/"
     },
     {
       "file": "supplement-signals.md",
       "target": "textbook/supplements/signals.md",
-      "sha256": "6e5744d0508ab10517803a979e4c5db3cca7a2f62c7d19ce19c505faf4202622",
+      "sha256": "e51b498cdc95001ffd5cb7b091132a2276ae4221d96ee63c3680048850262fe2",
       "page": "supplements/signals/"
     },
     {
       "file": "supplements-full.md",
       "target": "docs/supplements-full.md",
-      "sha256": "003b3da4ce59fcd8148abbfb231a5f7066a9107010b32847934fd3da84ec7894",
+      "sha256": "b44f1013f2f7b7b97f7681a5f18780262892ac9d7649d628c91c21c6caaca32e",
       "page": null
     },
     {
       "file": "supplements.json",
       "target": "data/supplements.json",
-      "sha256": "8f651b40517265a45a519ead98c748398f1106d3aa727f5ead26c626d50f6260",
+      "sha256": "223b311c3a50872bde2273e10b88abe2e46529330bb86ce08f3d4358014b77a8",
       "page": null
     },
     {
       "file": "supplements.md",
       "target": "docs/supplements.md",
-      "sha256": "85e6fb3fda28c9a660b34ca8a5728c59f8f3b21486796dea38a7d3d6d63d8440",
+      "sha256": "b7aaa495078a47da87eaa92c792e7857bfd420069a5540cbfe6a94fd004bc38f",
       "page": "supplements/"
     },
     {
@@ -3697,6 +3727,12 @@
       "page": null
     },
     {
+      "file": "walkthrough--knowledge_transport.py",
+      "target": "tutorials/knowledge_transport.py",
+      "sha256": "f75f462f0a39b76b6c135338ba1f8ec9e56d385bfc5c86f2829dec9d934bfdc5",
+      "page": null
+    },
+    {
       "file": "walkthrough--learned-memory-walkthrough.py",
       "target": "tutorials/learned-memory-walkthrough.py",
       "sha256": "5ae14f0d8d372de4f180b56c42b145bdb7775bc7a3ff4bdb7aa327f22025fa6e",
@@ -3855,13 +3891,13 @@
     {
       "file": "walkthroughs.json",
       "target": "data/walkthroughs.json",
-      "sha256": "8d1c94297c7d66e3d9dd39999657bdb7b6fd67502857f517954365f19aac8b36",
+      "sha256": "796d892cff12d9d70c74a50c4ec185500ce531d05bde7dfaccae378a8d54d06f",
       "page": null
     },
     {
       "file": "walkthroughs.md",
       "target": "docs/walkthroughs.md",
-      "sha256": "f40daa742d39d7401341975639620714f18a6c050cead4f980379d1f6a5d02b2",
+      "sha256": "6e93dcef99f1df297e27c6190f395378203ebc1efd2771a57753fb841e5ca1e9",
       "page": null
     },
     {

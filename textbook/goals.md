@@ -806,7 +806,7 @@ $$
 
 ## 学习与研究衔接
 
-目标定义偏好，状态保留信息。学会达到给定目标，不等于学会构建有用目标。
+给定一个子目标，可以研究怎样更快达到；决定练习哪个子目标，还必须估计练习对以后主任务的作用。容易达到的目标可能从不被调用，困难目标也可能带来罕见但有用的恢复行为。研究应先固定候选与低层学习器，比较目标选择的净收益，再加入候选生成，辨认新知识究竟来自哪一步。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-goals) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=goals) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=goals)
 

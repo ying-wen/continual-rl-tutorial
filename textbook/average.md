@@ -1718,7 +1718,7 @@ reset critic 使用 reset 指示作为信号，fd 按对应移动参考更新。
 
 ## 学习与研究衔接
 
-平均奖励按原始时间计收益。随机时长 option 要使用半马尔可夫时间口径。
+调用一次技能可能只走一步，也可能走许多步。评价奖励率要按真实持续时间累计奖励；一般不能把各次调用的奖励除以时长后再取平均。长期极限适合描述持续行为，却会忽略有限的启动损失。研究一个仍在学习的系统时，应同时规定有限评价时域，显式保留练习、模型修正和恢复所花的时间。
 
 [分册导读](../docs/learning-route-continual-rl.md) · [本章实验](https://yingwen.io/zh/continual-rl/labs/#experiment-average) · [资源](https://yingwen.io/zh/continual-rl/library/?chapter=average) · [学者](https://yingwen.io/zh/continual-rl/people/?chapter=average)
 
